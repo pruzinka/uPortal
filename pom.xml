@@ -139,6 +139,7 @@
         <SimpleContentPortlet.version>2.0.2</SimpleContentPortlet.version>
         <WeatherPortlet.version>1.1.5</WeatherPortlet.version>
         <WebProxyPortlet.version>2.2.2</WebProxyPortlet.version>
+        <mysql.version>5.1.38</mysql.version>
 
         <!-- Project Dependency Version Properties -->
         <aopalliance.version>1.0</aopalliance.version>

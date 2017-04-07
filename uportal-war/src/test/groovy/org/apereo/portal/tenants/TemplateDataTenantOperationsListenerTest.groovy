@@ -35,7 +35,7 @@ class TemplateDataTenantOperationsListenerTest {
     static final String membersRelPath="pags-group/Members.pags-group.xml";
     static final String membersFullPath="classpath:/org/apereo/portal/tenants/sampledata/pags-group/Members.pags-group.xml";
 
-    @Test
+
     void testDetermineImportOnUpdatePaths() {
         final Set<String> configResources = new HashSet<String>();
         configResources.add(adminFullPath);
